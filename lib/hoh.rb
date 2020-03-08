@@ -19,10 +19,7 @@
 # }
 # 
 # PORTION_3 = {
-#   label: "Family",
-#   sub_category: {
-#     label: "Genus",
-#   }
+#   label: "Order"
 # }
 # 
 # PORTION_4 = {
@@ -31,6 +28,10 @@
 # }
 
 def naming_system
+  naming_system = {
+    
+  }
+   
   # Remember:
   #  Kingdom
   #  Phylum

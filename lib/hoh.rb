@@ -28,7 +28,7 @@
 # }
 
 def naming_system
-  naming_system = {:sub_category =>"Kingdom", {:sub_category => "Phylum"}
+  naming_system = {:Kingdom =>
     
   }
    

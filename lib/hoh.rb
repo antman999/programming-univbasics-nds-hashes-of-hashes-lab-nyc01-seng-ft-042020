@@ -28,29 +28,28 @@
 # }
 
 def naming_system
-  naming_system = 
-  {:sub_category =>
-      {:sub_category =>
-         {:label => "Order",
-            :sub_category =>
-              {:sub_category =>
-                {:sub_category =>
-                    {:Species =>""
-    
-                       
-              
-                     }
-                
-                  }
-              
-              }
-           
+  naming_system = {
+   label: "Kingdom",
+   sub_category: {
+     label: "Phylum",
+     sub_category:{
+       label: "class",
+     sub_category:{
+       label:"Order",
+       sub_category:{
+         label: "Family",
+         sub_category:{
+           label:"Genus",
+           sub_category:{
+             label:"Species"
+           }
          }
-        
-      }
-    
+       }
+     }
+       
+     }
+   }
   }
-   
   # Remember:
   #  Kingdom
   #  Phylum

@@ -30,8 +30,8 @@
 def naming_system
   naming_system = 
   {:sub_category =>
-      {:sub_category =>
-         {:sub_category => 
+      {:sub_category => "Order",
+         :sub_category => 
             {:sub_category =>
               {:sub_category =>
                 {:sub_category =>
@@ -45,7 +45,7 @@ def naming_system
               
               }
            
-         }
+         
         
       }
     

@@ -29,12 +29,12 @@
 
 def naming_system
   naming_system = 
-  {:Kingdom =>
-  {:Phylum =>
-  {:Class =>
-  {:Order =>
-  {:Family =>
-  {:Genus =>
+  {:sub_category =>
+  {:sub_category =>
+  {:sub_category =>
+  {:sub_category =>
+  {:sub_category =>
+  {:sub_category =>
   {:Species =>""
     
   }}

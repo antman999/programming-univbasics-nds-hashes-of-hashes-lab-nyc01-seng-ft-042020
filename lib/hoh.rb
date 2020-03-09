@@ -30,20 +30,24 @@
 def naming_system
   naming_system = 
   {:sub_category =>
-  {:sub_category =>
-  {:sub_category => "order",
-  {:sub_category =>
-  {:sub_category =>
-  {:sub_category =>
-  {:Species =>""
+      {:sub_category =>
+         {:sub_category => 
+            {:sub_category =>
+              {:sub_category =>
+                {:sub_category =>
+                    {:Species =>""
     
-  }}
-    
-  }
-    
-  }
-    
-  }}
+                       }
+              
+                     }
+                
+                  }
+              
+              }
+           
+         }
+        
+      }
     
   }
    
